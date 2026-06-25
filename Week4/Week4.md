@@ -98,3 +98,8 @@ When you have noisy experimental data AND a known PDE, PINNs can fuse both into 
 - Grossmann, Komorowska, Latz, Schönlieb (2023) — Can PINNs beat FEM?, arXiv:2302.04107
 - Sukumar & Srivastava (2021) — Exact imposition of BCs with distance functions, arXiv:2104.08426
 - Karniadakis et al. (2021) — Physics-informed machine learning, Nature Reviews Physics
+
+## Status
+
+This repository contains the completed work for Weeks 1, 2, 3 and 4 of the SOC-26 project.  
+Submitted as Midterm Report.
